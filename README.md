@@ -7,7 +7,7 @@
   Go to frontend folder and run:
 
   ```bash
-  npm run install
+  npm install
   ```
 
 - Then go to the backend folder and run:
